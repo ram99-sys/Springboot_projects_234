@@ -1,0 +1,16 @@
+spring.application.name=13-Data-jpa-App
+
+#sql connection details
+datasource.mysql.username=root
+datasource.mysql.password=Raghu
+datasource.mysql.jdbc-url=jdbc:mysql://localhost:3306/userdb
+datasource.mysql.driver-class-name=com.mysql.cj.jdbc.Driver
+#spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+
+# JPA Properties for MySQL
+#spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+
+# Hibernate DDL Auto (create, create-drop, validate, update)
+#spring.jpa.hibernate.ddl-auto=update
+
+server.port=8081

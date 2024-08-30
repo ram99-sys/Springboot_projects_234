@@ -1,0 +1,21 @@
+GoIntoTopLevelTypeAction.isChecked=true
+JavaEditor.SyncOutlineOnCursorMove=false
+LexicalSortingAction.isChecked=true
+MemberFilterActionGroup.org.eclipse.jdt.ui.JavaOutlinePage.1=true
+MemberFilterActionGroup.org.eclipse.jdt.ui.JavaOutlinePage.2=true
+MemberFilterActionGroup.org.eclipse.jdt.ui.JavaOutlinePage.8=true
+content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:1\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:2\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:3\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:4\u0000org.eclipse.jdt.ui.textProposalCategory\:5\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:6\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:7\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:8\u0000org.eclipse.lsp4e.jdt.ls-based-java-completion-computer\:9\u0000
+content_assist_disabled_computers=org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="in.raghu.entity.Employee"><rhs name\="in.raghu.entity.Employee"/></lhs><lhs name\="org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties$Sort"><rhs name\="org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties$Sort"/></lhs><lhs name\="java.lang.Enum"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="jakarta.persistence.GenerationType"/></lhs><lhs name\="org.springframework.transaction.TransactionManager"><rhs name\="org.springframework.orm.jpa.JpaTransactionManager"/></lhs><lhs name\="org.springframework.transaction.PlatformTransactionManager"><rhs name\="org.springframework.orm.jpa.JpaTransactionManager"/></lhs><lhs name\="in.raghu.db2.entity.StudentDetails"><rhs name\="in.raghu.db2.entity.StudentDetails"/></lhs><lhs name\="org.springframework.beans.factory.BeanClassLoaderAware"><rhs name\="org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"/></lhs><lhs name\="org.springframework.beans.factory.Aware"><rhs name\="org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"/></lhs><lhs name\="org.springframework.beans.factory.InitializingBean"><rhs name\="org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"/></lhs><lhs name\="org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"><rhs name\="org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"/></lhs><lhs name\="org.springframework.jdbc.datasource.AbstractDriverBasedDataSource"><rhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"/></lhs><lhs name\="org.springframework.jdbc.datasource.AbstractDataSource"><rhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"/></lhs><lhs name\="javax.sql.DataSource"><rhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"/></lhs><lhs name\="javax.sql.CommonDataSource"><rhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"/></lhs><lhs name\="java.sql.Wrapper"><rhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"/></lhs><lhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"><rhs name\="org.springframework.jdbc.datasource.DriverManagerDataSource"/></lhs><lhs name\="org.springframework.orm.jpa.JpaVendorAdapter"><rhs name\="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter"/></lhs><lhs name\="in.raghu.sql.entity.Employee"><rhs name\="in.raghu.sql.entity.Employee"/></lhs><lhs name\="in.raghu.postgres.entity.EmployeeDetails"><rhs name\="in.raghu.postgres.entity.EmployeeDetails"/></lhs></history>
+content_assist_number_of_computers=14
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

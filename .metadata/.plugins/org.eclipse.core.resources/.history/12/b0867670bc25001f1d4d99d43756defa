@@ -1,0 +1,8 @@
+spring.application.name=13-Data-jpa-App
+
+#sql connection details
+spring.datasource.mysql.username=root
+spring.datasource.mysql.password=Raghu
+spring.datasource.mysql.url=jdbc:mysql://localhost:3306/userdb
+spring.datasource.mysql.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect

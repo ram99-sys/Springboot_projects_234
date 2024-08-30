@@ -1,0 +1,21 @@
+package in.raghu.postgres.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import in.raghu.postgres.entity.EmployeeDetails;
+import in.raghu.postgres.repo.EmployeeDetailsRepo;
+
+public class EmployeeDetailsService {
+	@Autowired
+	public EmployeeDetailsRepo empDetailsRepo;
+	
+	public void createEmpDetails() {
+		EmployeeDetails emp=new EmployeeDetails();
+		emp.setCountry("india");
+		emp.setPincode("523001");
+		emp.setState("Ap");
+		empDetailsRepo.save(emp);
+	}
+	
+	
+}

@@ -1,0 +1,9 @@
+spring.application.name=10-Data-jpa-App
+spring.datasource.username=root
+spring.datasource.password=Raghu
+spring.datasource.url=jdbc:h2:mem:userdb
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+server.port=8010
+spring.datasource.driverClassName=org.h2.Driver
+spring.h2.console.enabled=true
+server.servlet.context-path=api

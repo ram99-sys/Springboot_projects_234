@@ -1,0 +1,17 @@
+package in.raghu.sql.service;
+
+import org.springframework.stereotype.Service;
+
+import in.raghu.sql.entity.Employee;
+
+@Service
+public class EmployeeService {
+	public EmployeeService emprepo;
+	
+	public void createEmp() {
+		Employee emp=new Employee();
+		emp.setName("Raghu");
+		emp.setSalary(60000.00);
+		emp.setDesignation("Engineer");
+	}
+}

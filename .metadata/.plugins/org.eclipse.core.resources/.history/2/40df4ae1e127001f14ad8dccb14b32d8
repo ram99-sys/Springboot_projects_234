@@ -1,0 +1,3 @@
+spring.application.name=15-Data-jpa-App
+
+spring.profiles.active=prod

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.raghu.book&apos; to &apos;Book&apos;&#x0D;&#x0A;- Original project: &apos;03-Data-jpa-App&apos;&#x0D;&#x0A;- Original element: &apos;in.raghu.book&apos;&#x0D;&#x0A;- Renamed element: &apos;in.raghu.Book&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;book&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.raghu{book.java[book" matchStrategy="1" name="Book" qualified="false" references="true" similarDeclarations="false" stamp="1716618663381" textual="false" version="1.0"/>
+</session>

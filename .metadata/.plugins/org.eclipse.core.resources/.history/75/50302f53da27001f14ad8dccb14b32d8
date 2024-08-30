@@ -1,0 +1,5 @@
+package in.raghu.entity;
+
+public class Employee {
+
+}

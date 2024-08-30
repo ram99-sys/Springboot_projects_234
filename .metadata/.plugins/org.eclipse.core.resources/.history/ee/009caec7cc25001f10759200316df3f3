@@ -1,0 +1,5 @@
+package in.raghu.postgres.repo;
+
+public interface EmployeeDetailsRepo {
+
+}

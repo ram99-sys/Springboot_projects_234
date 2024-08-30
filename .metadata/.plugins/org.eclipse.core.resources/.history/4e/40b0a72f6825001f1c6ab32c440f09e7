@@ -1,0 +1,5 @@
+package in.raghu.mysql;
+
+public class Employee {
+
+}

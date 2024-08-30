@@ -1,0 +1,7 @@
+spring.application.name=15-Data-jpa-App
+
+spring.profiles.active=prod
+
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.show-sql=true
+

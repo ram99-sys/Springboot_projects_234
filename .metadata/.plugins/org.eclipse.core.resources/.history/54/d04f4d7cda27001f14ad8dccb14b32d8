@@ -1,0 +1,5 @@
+package in.raghu.repo;
+
+public interface EmployeeRepo {
+
+}

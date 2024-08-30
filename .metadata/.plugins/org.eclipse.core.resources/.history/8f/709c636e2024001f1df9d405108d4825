@@ -1,0 +1,9 @@
+package in.raghu.repo;
+
+import org.springframework.data.repository.CrudRepository;
+
+import in.raghu.entity.Employee;
+
+public interface EmployeeRepository extends CrudRepository<Employee, Integer> {
+
+}

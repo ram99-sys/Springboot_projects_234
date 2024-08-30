@@ -1,0 +1,6 @@
+package in.raghu.service;
+
+public interface EmplyeeServiceInterface {
+	public void createEmployee();
+	public void fetchEmployee();
+}

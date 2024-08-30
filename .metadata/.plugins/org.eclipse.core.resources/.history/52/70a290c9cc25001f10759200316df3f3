@@ -1,0 +1,5 @@
+package in.raghu.postgres.service;
+
+public class EmployeeDetailsService {
+
+}

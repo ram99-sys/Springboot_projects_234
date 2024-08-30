@@ -1,0 +1,11 @@
+package in.raghu.service;
+
+import in.raghu.repo.EmployeeRepo;
+
+public class DevEmplyeeService implements EmployeeS {
+	
+	public EmployeeRepo empRepo;
+	
+	
+
+}
